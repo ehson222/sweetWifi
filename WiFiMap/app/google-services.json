@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763209942720",
+    "firebase_url": "https://wifimapv2.firebaseio.com",
+    "project_id": "wifimapv2",
+    "storage_bucket": "wifimapv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763209942720:android:635db5ee1f0300fb",
+        "android_client_info": {
+          "package_name": "com.example.nycgtrcode.wifimap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763209942720-j7o369unod8to7c2573ikg2q2b89rd2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nycgtrcode.wifimap",
+            "certificate_hash": "dff4bd3f177b86afb945bb6e9ff4a0d3402d2e6d"
+          }
+        },
+        {
+          "client_id": "763209942720-gtrr843ar4fvdehqk108o0ulmsqi729g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs7r_7koIqo0BRBKOH2gDYdjzcNZ9YgiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763209942720-gtrr843ar4fvdehqk108o0ulmsqi729g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
