@@ -27,6 +27,9 @@ SweetWifi works primarily through crowdsourced data, it's how Waze app works on 
 
 Although we did not win any awards, we definitely learned valuable lessons to apply next time (I was fortunate enough to win my next hackathon at HackAttack QC).  Primarily we were new to android studio, online databases and how they should work, time constraints were as real as ever (24 hour hackathon) and coming up with ideas that would work.
 
+<p align="center">
+    <img src="Gif2.gif" alt="Image" width="800" height="600" />
+</p>
 
 
 
